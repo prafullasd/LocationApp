@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FirstApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello">Hello 21w.789</string>
+    <string name="title">Location Sensing</string>
+    <string name="button1Text">Sense Location GPS</string>
+    <string name="button2Text">Location Sensing WiFi</string>
+    <string name="button3Text">Both</string>
+
+</resources>
